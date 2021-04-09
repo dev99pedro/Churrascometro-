@@ -1,2 +1,2 @@
-![logo](https://user-images.githubusercontent.com/72178800/114214819-34082000-993b-11eb-9688-94c0816a9410.png)
-
+                          Projeto desenvolvido no curso do ProgBR
+![imagemchuras](https://user-images.githubusercontent.com/72178800/114214927-5863fc80-993b-11eb-8a76-c6a7d38d0307.png)
